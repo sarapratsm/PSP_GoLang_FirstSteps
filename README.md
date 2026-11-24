@@ -1,7 +1,7 @@
 # Go: primers passos
 
-![CFGS DAM](https://img.shields.io/badge/CFGS-DAM-green)
-![PSP](https://img.shields.io/badge/assignatura-PSP-teal)
+![CFGS DAM](https://img.shields.io/badge/CFGS-Desenvolupament%20d%27Aplicacions%20Multiplataforma%20%28DAM%29-green)
+![PSP](https://img.shields.io/badge/assignatura-Programaci%C3%B3%20de%20Serveis%20i%20Processos-teal)
 
 Petits exemples per aprendre els fonaments de **Go (Golang)** a l'assignatura de Programació de Serveis i Processos (PSP) del CFGS de Desenvolupament d'Aplicacions Multiplataforma.
 
